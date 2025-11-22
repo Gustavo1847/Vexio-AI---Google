@@ -1,0 +1,7 @@
+{
+  "name": "Vexio Studio - Central de Mensagens",
+  "description": "Plataforma unificada para gerenciamento de WhatsApp, Instagram e Facebook API com suporte a IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
